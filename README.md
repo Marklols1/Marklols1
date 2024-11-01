@@ -1,18 +1,22 @@
-Привет ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Меня зовут привет, я Марк, мне 15 лет, я пишу на Javascript, я хочу попасть в Яндекс в 18 лет и в Google в 23 ============================================================================================================================================================================================================================== * 🌍 Я живу в я из России
+# 💫About Me :
+привет я марк мне 15 лет пишу на джаваскрипт хочу стать лучшим программистом
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100](https://i.pinimg.com/originals/34/86/69/348669fdcff4db5902f108a7645cbdab.gif )"/>
+</div>
+
+
+# 💻Tech Stack
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=Marklols1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Marklols1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Marklols1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Marklols1&icon=2&color=1)](https://visitcount.itsvg.in)
+
 https://i.pinimg.com/originals/f6/d4/40/f6d440803321cbaa84daccae57abfd2e.gif
 https://i.pinimg.com/originals/34/86/69/348669fdcff4db5902f108a7645cbdab.gif 
-<div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://i.pinimg.com/originals/34/86/69/348669fdcff4db5902f108a7645cbdab.gif)" width="100"/>
-</div>
-### Навыки
-
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org /" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com /" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css "target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg " width="36" height="36" alt ="CSS3" /></a><a href="https://reactjs.org /" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> </p>
-### Социальные сети <p align="left"> <a href="https://www.github.com/https://github.com/Marklols1"target="_blank" rel="noreferrer"> <изображение> <исходный медиа ="(предпочитает-цветовую-схему: темный)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(предпочитает-цветовая схема: светлая)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg " /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </картинка> </a></p>
-
-### Значки
-
-<b>Моя статистика на GitHub</b>
-
-<a href="http://www.github.com/https://github.com/Marklols1"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=https://github.com/Marklols1&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="График коммитов на GitHub" /></a>
-
-<a href="https://github.com/https://github.com/Marklols1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Marklols1&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages "alt="Лучшие языки" /></a>
