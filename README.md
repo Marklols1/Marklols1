@@ -1,7 +1,9 @@
 # 💫About Me :
 привет я марк мне 15 лет пишу на джаваскрипт хочу стать лучшим программистом 
 
-
+<div align="center">
+  <img src="https://i.pinimg.com/originals/18/3f/b7/183fb7dc262236a6d33603cf53b3759b.gif" width="600" height="300"/>
+</div>
 # 💻Tech Stack
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 # 📊GitHub Stats :
@@ -14,3 +16,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Marklols1&icon=2&color=1)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="" width="600" height="300"/>
+</div>
