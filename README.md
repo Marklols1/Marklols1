@@ -1,5 +1,5 @@
  💫About Me :
-привет я марк мне 15 лет пишу на джаваскрипт хочу стать лучшим программистом
+привет я марк мне 15 лет пишу на джаваскрипт
 <div id="header" align="center">
   <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100](https://i.pinimg.com/originals/34/86/69/348669fdcff4db5902f108a7645cbdab.gif )"/>
 </div>
